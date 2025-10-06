@@ -42,6 +42,16 @@ source myvenv/bin/activate
 pip install -r requirements.txt
 ```
 
+To include comet metrics in your runs you will need to clone the corresponding repo:
+```bash
+git clone git@github.com:Unbabel/COMET.git
+```
+
+To include metricx in your runs you will need to clone the corresponding repo:
+```bash
+git clone git@github.com:google-research/metricx.git
+```
+
 ## 📂 Our Repository Structure
 ```
 gender-bias-qe-metrics/
