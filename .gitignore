@@ -1,10 +1,18 @@
 logs
+.idea/
 
-Results
+#custom additions
+results-copied
+results-old
+results
+data/mtgeneval/translated-contexts-copied
+data/mtgeneval/translated-contexts-old
+notebooks/analysis_ambiguous/analysis_MT-GenEval_ambiguous_poster.ipynb
+plots/ambiguous/mtgeneval/density_plots
+transforms/
+
 COMET
 metricx
-.idea/
-results
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
