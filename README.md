@@ -1,14 +1,11 @@
 # gender-bias-qe-metrics
 Code for the paper: **Watching the Watchers: Exposing Gender Disparities in Machine Translation Quality Estimation**.
 
-Find the paper here
+<!-- Find the paper here -->
 [![ACL Anthology](https://img.shields.io/badge/ACL-Anthology-ED1C24)](https://aclanthology.org/2025.acl-long.1228/)
 
-
-
-> [!NOTE]
-> This repository is WIP. We will update it shortly.
-
+<!-- > [!NOTE]
+> This repository is WIP. We will update it shortly. -->
 
 ## 🧠 What this paper studies
 
